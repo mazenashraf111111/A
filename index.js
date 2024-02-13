@@ -34,7 +34,7 @@
   
   
   // ADD YOUR STATUS HERE 
-  const statusMessages = ["Official Hellshadows bot"];
+  const statusMessages = ["An official Hellshadows bot"];
   
   
   let currentIndex = 0;
