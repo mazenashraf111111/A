@@ -34,7 +34,7 @@
   
   
   // ADD YOUR STATUS HERE 
-  const statusMessages = ["An official Hellshadows bot"];
+  const statusMessages = ["𝙵𝙰𝚃𝙷𝙴𝚁 𝙾𝙵 𝚃𝙷𝙴 𝙶𝙻𝙸𝚃𝙲𝙷𝙴𝚂"];
   
   
   let currentIndex = 0;
